@@ -1,0 +1,25 @@
+{
+  "name": "universal-proxy",
+  "version": "1.0.0",
+  "description": "A CORS proxy server",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "cors": "^2.8.5",
+    "axios": "^1.7.9"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oplexz/universal-proxy.git"
+  },
+  "author": "Daniil Isakov (oplexz) <daniil.isakov@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oplexz/universal-proxy/issues"
+  },
+  "homepage": "https://github.com/oplexz/universal-proxy#readme"
+}
